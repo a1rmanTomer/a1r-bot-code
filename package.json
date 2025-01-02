@@ -1,0 +1,25 @@
+{
+  "name": "a1r-bot-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1rmanTomer/a1r-bot-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/a1rmanTomer/a1r-bot-code/issues"
+  },
+  "homepage": "https://github.com/a1rmanTomer/a1r-bot-code#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.17.2",
+    "dotenv": "^16.4.7"
+  }
+}
